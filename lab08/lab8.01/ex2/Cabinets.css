@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+p{
+    margin: 0.25in;
+    border: 0.25in solid black;
+    padding: 0.25in;
+    background: url(./bond-paper.jpeg);
+}
+body{
+    background: url(./background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner{
+    background: url(./brick.jpeg) repeat-x;
+    font-size: 50pt;
+    font-family: Arial;
+    color:  #e6e6e6;
+}
+

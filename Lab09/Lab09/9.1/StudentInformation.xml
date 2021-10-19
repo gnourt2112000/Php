@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<information>
+    <name>
+        <firstname>Huy</firstname>
+        <lastname>Dao Dang</lastname>
+    </name>
+    <gender>
+        Male
+    </gender>
+    <birthday>
+        27/06/1999
+    </birthday>
+    <contact>
+    <phone>0869187629</phone>
+    <mail>huy.dd176782@sis.hust.edu.vn</mail>
+    <address>Cau Giay, Ha Noi</address>
+    </contact>
+
+    <university>
+        Hanoi University of Science and Technology
+    </university>
+    <class>
+        Viet Nhat A, Hedspi
+    </class>
+    <favorites>
+        Game, film, walking
+    </favorites>
+</information>
